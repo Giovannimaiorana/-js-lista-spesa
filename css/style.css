@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 500px;
+    height: 700px;
+    margin: auto;
+    background-color: darkgoldenrod;
+    margin-top: 50px;
+}
+.title{
+    color: white;
+    text-align: center;
+  
+}
+.lista_spesa{
+    font-size: 50px;
+    align-items: center;
+    color: white;
+    text-align: center;
+    margin-top: 25%;
+}
